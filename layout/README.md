@@ -1,2 +1,0 @@
-layout of the adder
-
