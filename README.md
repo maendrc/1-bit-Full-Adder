@@ -1,6 +1,9 @@
 • Design a 1-bit static CMOS full adder circuit
+
 • Measure delay and power
+
 • Perform the corner / monte-carlo simulations to verify mismatch
+
 • Design layout and perform post-layout simulation. Compare pre- and post- layout simulation and briefly 
 analyze the results.
 
